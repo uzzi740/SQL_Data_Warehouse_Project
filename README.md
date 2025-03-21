@@ -5,4 +5,5 @@ This repository showcases a complete data warehousing and analytics solution, co
 
 🏛️ Data Architecture
 I have selected the Medallion Architecture for this Data Warehouse architecture project which consists of Bronze, Silver and Gold layers.
-![alt text]https://raw.githubusercontent.com/uzzi740/SQL_Data_Warehouse_Project/refs/heads/main/docs/Datawarehouseproject.jpg
+![Alt Text](https://github.com/uzzi740/SQL_Data_Warehouse_Project/blob/main/docs/Datawarehouseproject.jpg?raw=true)
+
